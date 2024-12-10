@@ -1,0 +1,5 @@
+pandas~=2.2.3
+torch~=2.5.1+cu118
+transformers~=4.44.0
+numpy~=1.26.4
+bm25s~=0.2.5
