@@ -1,0 +1,1090 @@
+[
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.9090909090909091,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.875,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8571428571428571,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8571428571428571,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 0.2,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 0.8,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8333333333333334,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5714285714285714,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8571428571428571,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 0.6153846153846154,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.6,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 0.8333333333333334,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.8333333333333334,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8888888888888888,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.75,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8571428571428571,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.9,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.6,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.75,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8181818181818182,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.8333333333333334,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.4,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 0.7,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.6666666666666666,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.9,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 0.058823529411764705,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": null
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.3333333333333333,
+            "reason": null
+        },
+        {
+            "MetricData": "Contextual Recall",
+            "score": 1.0,
+            "reason": null
+        }
+    ]
+]

@@ -1,0 +1,1202 @@
+[
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about adding a new employee in Tinkoff Business, regardless of their citizenship status, without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's query about obtaining a report on operations while using AQSI as a terminal, without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about obtaining a cap from Tinkoff while not being in Moscow, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about setting up an online cash register for internet acquiring from Tinkoff, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating a perfect alignment with the input question."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about accounting for currency purchases and sales in trading, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.7142857142857143,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about withdrawing cash in foreign currency from a Tinkoff business card while abroad, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the output directly addresses the input question without any irrelevant statements, providing a clear and focused response."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's query about finding their auto evaluations in the speech analytics system without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about using a special account for contract security without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about adding information on pickup and delivery to the website, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.875,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about the responsibilities of an online accountant compared to a traditional one, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about the commission for payment splitting in Tinkoff Cash and how it is calculated, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about bank transfers during holidays without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8333333333333334,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about the documents needed for obtaining a loan for an LLC without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.42857142857142855,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about applying for a \u041a\u042d\u041f through \u0422\u0438\u043d\u044c\u043a\u043e\u0444\u0444 without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about withdrawing cash in currency from a Tinkoff card while in Russia, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about who can become an individual entrepreneur in Russia without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8571428571428571,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the inquiry about finding information on the required documents for procurement participation without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about obtaining a new power of attorney when the old one expires, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about the speed of receiving funds from reimbursement for acquiring, without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because there are no irrelevant statements in the output, providing a clear and focused response to the question about payment verification in banks."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.7272727272727273,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about connecting an online cash register for accepting payments, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.8,
+            "reason": "The score is 0.80 because the output included an irrelevant statement about trading currency on the exchange, which does not pertain to the question about accounting entries under the general taxation system."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about tax payments for individual entrepreneurs without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.8333333333333334,
+            "reason": "The score is 0.83 because while the response provided some context about usual response times, it failed to directly address the specific concern of not receiving a response after 5 minutes, which detracted from its relevance."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's query about accessing internet acquiring on the Tinkoff website without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's query about suspending work with Wildberries in Tinkoff Business while preserving reports, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8888888888888888,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about setting fuel limits for drivers in a business context without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about the time frame for returning money on a Tinkoff credit line without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about when to double-check operations without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8333333333333334,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about withdrawing cash in foreign currency from a Tinkoff business card while abroad, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about using Tinkoff Seller with over 20,000 products on Ozon or Wildberries without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about closing a brokerage account with Tinkoff without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about transferring money from a nominal account to a beneficiary card in Tinkoff without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.875,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about determining the amount needed for a tender application without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about bank transfers during holidays without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.9090909090909091,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's question about finding the necessary legal entity for filling out an application, without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's query about uploading ads to receipts and managing the product database without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the inquiry about verifying the reliability of a counterparty under 44-FZ without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about opening a business and the necessity of an accountant under the chosen tax regime, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the output directly addresses the question about task assignment in a task tracker without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.3333333333333333,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's request about adding a link for order status notifications in Tinkoff Business without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about penalties for late tax payment without including any irrelevant information."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about bank transfers during holidays, providing relevant information without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.9,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the concern of accidentally sending money to the wrong person, providing relevant guidance without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.75,
+            "reason": "The score is 0.75 because while the response addresses the main question about the pension fund contribution, it includes an irrelevant statement that simply restates part of the input without adding value. This detracts from the overall relevance, preventing a higher score."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating a perfect alignment with the input query regarding bank transfers during holidays."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.9,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's question about withdrawing cash from a Tinkoff business card in Russia without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.6,
+            "reason": "The score is 0.60 because while some relevant information was provided about receiving a salary on a Tinkoff card, there were irrelevant statements regarding the Black card and its features that did not directly address the user's question about receiving a salary on a non-Black card."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the purpose of a special account in bank participation in government procurement without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the inquiry about verifying the registration and tax status of a self-employed individual without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8333333333333334,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because there are no irrelevant statements in the output, making it perfectly relevant to the input question."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about bank transfers during holidays without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.36363636363636365,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's inquiry about blocked funds and the bank's notifications without including any irrelevant information."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question without any irrelevant statements, providing clear and focused information."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about effective search recommendations for procurement using keywords without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question without any irrelevant statements, providing clear and relevant information."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses how to participate in tenders through government procurement without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about creating a payout in jump.finance without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the concern about not transferring money before the application submission, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about the duration for taking money from an investment credit line and where to find that information, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the input question without any irrelevant statements, providing a clear and focused answer."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about bank transfers during holidays without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5714285714285714,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about creating a tag for calls, providing relevant information without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about what \u0432\u0438\u0442\u0440\u0438\u043d\u044b are without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about gathering bank statements without any irrelevant information."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about registering for electronic trading and the time it takes without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5714285714285714,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's question about connecting Tinkoff Seller without a personal account, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about bank transfers during holidays without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about withdrawing currency with a business card in various countries, without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.6,
+            "reason": "The score is 0.60 because while some relevant information was provided, there were vague and off-topic statements that did not directly address the specific question about withdrawing cash from a Tinkoff business card abroad without a 'Mir' card."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about withdrawing cash from a Tinkoff business card abroad without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about viewing tasks in the task tracker after the operator's assessment, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about the necessary documents for obtaining a loan for a company with simplified reporting, without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about participating in tenders through government procurement without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about bank transfers during holidays without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8888888888888888,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about how Tinkoff Pay QR works and what is needed for its use, without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.9,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the inquiry about bonuses related to a friend's product connection in Tinkoff Business without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.5,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about how Tinkoff Pay QR works and how to use it for accepting payments, with no irrelevant statements present."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8333333333333334,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.8,
+            "reason": "The score is 0.80 because the output included an irrelevant statement about opening instructions in Safari, which did not address the user's question about finding the 'Business Words' app in the App Store or what to do if it has already been downloaded."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because there are no irrelevant statements in the output, making it perfectly aligned with the input question."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about withdrawing cash from a Tinkoff business card in Russia without any irrelevant information."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because there are no irrelevant statements in the output, making it perfectly aligned with the input query."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's query about adding a new cashier in the Pay to Phone app without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.875,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the inquiry about funding a brokerage account through the Tinkoff Business app without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about obtaining a new revolving credit from Tinkoff without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the input question without any irrelevant statements, providing a clear and focused answer."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about transitioning to a simplified tax system without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the user's inquiry about the app '\u0431\u0438\u0437\u043d\u0435\u0441 \u0441\u043b\u043e\u0432\u0430' and provides relevant guidance without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating a perfect alignment with the input question about hidden commissions when funding a brokerage account."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the inquiry about ordering delivery of salary cards through Tinkoff Business without including any irrelevant information."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about paying with a smartphone card at a terminal without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about finding the right legal entity for the application without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the request for downloading a contract for self-employed individuals without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about bank transfers during holidays without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because the response directly addresses the question about withdrawing cash from a Tinkoff business card while abroad without any irrelevant statements."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 1.0,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 1.0,
+            "reason": "The score is 1.00 because there are no irrelevant statements in the output, indicating a perfect alignment with the input question."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.8,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.6,
+            "reason": "The score is 0.60 because the output included statements that did not directly address the user's question about viewing and downloading orders and requests on the Tinkoff Business website."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.75,
+            "reason": null
+        }
+    ],
+    [
+        {
+            "MetricData": "Answer Relevancy",
+            "score": 0.75,
+            "reason": "The score is 0.75 because while the response addresses the user's concern about downloading a statement, it includes an irrelevant statement about the option not being available for self-download, which does not help the user find a solution."
+        },
+        {
+            "MetricData": "Faithfulness",
+            "score": 0.6666666666666666,
+            "reason": null
+        }
+    ]
+]
