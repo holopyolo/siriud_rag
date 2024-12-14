@@ -1,87 +1,71 @@
-Here's a sample README.md file for your project structure. This file provides an overview of the project, its structure, and instructions for usage.
+# Название проекта
 
-# SIRIUD_RAG
+## Описание
+Краткое описание проекта, его цели и задачи.
 
-SIRIUD_RAG is a project that implements a Retrieval-Augmented Generation (RAG) model for various natural language processing tasks. This repository contains scripts for benchmarking, data processing, and model training, as well as example notebooks for experimentation.
-
-## Project Structure
-
-
-SIRIUDRAG/
-│
-├── botlogic/
-│   ├── baseline.py              # Baseline model implementation
-│   ├── benchmark.py             # Script for benchmarking models
-│   ├── nemo.py                  # Integration with NVIDIA's NeMo framework
-│   ├── retrieverpipe.py        # Pipeline for data retrieval
-│   ├── retriever.py             # Script for retrieving data
-│   └── tlight.py                # Lightweight model implementation
-│
-├── data/
-│   ├── benchmark.csv            # Benchmark data for evaluation
-│   ├── benchmark100.csv         # Extended benchmark data
-│   └── formatted.csv            # Formatted data for processing
-│
-├── jsones/
-│   ├── idealprompt100tlite.json              # Ideal prompts for lite model
-│   ├── idealprompt100tpro8bit.json          # Ideal prompts for 8-bit model
-│   ├── idealprompt100vikhr (1).json            # Ideal prompts for Vikhr model
-│   ├── idealprompttpro8bitcontextual.json    # Contextual prompts for 8-bit model
-│   ├── ragastlite100.json                       # Ragas for lite model
-│   ├── ragastpro8bit.json                       # Ragas for 8-bit model
-│   ├── ragasvikhr100.json                        # Ragas for Vikhr model
-│   └── t-procontextualragas.json                 # Contextual ragas for T-Pro model
-│
-├── notebooks/
-│   ├── Oneofthework.ipynb                       # Jupyter notebook for project work
-│   └── Zdesschitaytemetricieslicho.ipynb      # Notebook for metrics evaluation
-│
-├── README.md                                       # Project overview and instructions
-└── requirements.txt                                # Python package dependencies
-```
-
-## Installation
-
-To set up the project, you need to install the required packages. You can do this by running:
+## Установка
+Инструкции по установке необходимых зависимостей и запуску проекта.
 
 ```bash
+# Клонируйте репозиторий
+git clone https://github.com/ваш_проект.git
+
+# Перейдите в директорию проекта
+cd ваш_проект
+
+# Установите зависимости
 pip install -r requirements.txt
 ```
 
-## Usage
+## Логика
+Описание логики работы проекта и его компонентов.
 
-1. **Run Benchmarking**:
-   Use `benchmark.py` to evaluate different models against the benchmark datasets.
+### Структура проекта
+```plaintext
+bot_logic/
+    bot.py
+    config.py
+    preproc.py
+data/
+    benchmark.csv
+    benchmark100.csv
+    formatted.csv
+jsones/
+    ideal_prompt_100_t_lite.json
+    ideal_prompt_100_t_pro_8bit.json
+    ideal_prompt_100_vikhr (1).json
+    ideal_prompt_t_pro_8bit_contextual.json
+    ragas_t_lite_100.json
+    ragas_t_pro_8bit_100.json
+    ragas_vikhr_100.json
+    t-pro_contextual_ragas.json
+legacy/
+    baseline.py
+    benchmark.py
+    nemo.py
+    retriever_pipe.py
+    retriever.py
+    tlight.py
+notebooks/
+    One_of_the_work.ipynb
+    ...
+README.md
+requirements.txt
+```
 
-   ```bash
-   python botlogic/benchmark.py
-   
-2. **Data Retrieval**:
-   Use `retriever.py` and `retriever_pipe.py` to retrieve data for your tasks.
+### часть файлов, что осталось и успели почистить
+- `bot_logic/bot.py`: Основной файл логики бота. Запускать
+- `bot_logic/config.py`: Конфигурационный файл.
+- `bot_logic/preproc.py`: Файл для предварительной обработки данных.
+- `data/`: Директория с данными.
+- `jsones/`: Директория с JSON файлами.
+- `legacy/`: Директория с устаревшими скриптами.
+- `notebooks/`: Директория с Jupyter ноутбуками, подсчет метрики и исследование
+- `README.md`: Этот файл.
+- `requirements.txt`: Файл с зависимостями проекта.
 
-   bash
-   python botlogic/retriever.py
-   ```
+## Использование
+Запускать bot.py
 
-3. **Model Training**:
-   Modify the scripts in `botlogic/ to train your models based on your requirements.
-
-4. **Jupyter Notebooks**:
-   Open the notebooks in the notebooks/ directory for interactive experimentation and analysis.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Acknowledgements
-
-- [NVIDIA NeMo](https://github.com/NVIDIA/NeMo) for the framework used in this project.
-- Any other libraries or frameworks used in the project.
-
-
-
-Feel free to customize the content to better match your project's specifics or any additional details you want to include!
+## Вклад
+Вложили много токенов 
